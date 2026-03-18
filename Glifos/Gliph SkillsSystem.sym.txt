@@ -1,0 +1,11 @@
+SkillIcons=$B4FEFC
+Skill_Getter=$B4ED44
+DragonVeinsIcon_Unit67Graphic=$B2DA44
+RTextLoop=$B4F16C
+SkillDescGetter=$B4EF78
+SkillTester=$B4EE30
+portrait_0x01_face_Graphic=$B5A590
+portrait_0x01_mouth_Graphic=$B5B594
+portrait_0x01_pal_Graphic=$B5BB94
+Icon_Unit68Graphic=$B2DB6C
+portrait_0x01_minimug_Graphic=$B5BBB4

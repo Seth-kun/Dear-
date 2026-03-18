@@ -1,0 +1,5 @@
+¿COMO IMPORTARLO A LA TRADUCCIÓN?
+ADVANCED EDITORS >> INSERT EA >> SELECT FILE >> GLIPH.txt / GLIPH SKILLSYSTEM.txt >> LOAD SCRIPT.
+
+NOTA: A veces, SkillSystem modifica el adress de los glifos del menú de stats
+de una unidad. Los demás, en teoría, deberían ser el mismo adress. Así que tenga cuidado al insertarlo.
