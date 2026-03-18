@@ -1,1 +1,1 @@
-Recopicacion de graficos y glifos al español usado en FE8
+Recopilación de gráficos y glifos al español usado en FE8
