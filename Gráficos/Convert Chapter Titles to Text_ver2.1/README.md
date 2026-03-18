@@ -1,3 +1,5 @@
+--Funcionamiento y cambios
+
 Basicamente cambia el glifo del grafico "â" (Acento 
 circunflejo) en una
 "ú" para que palabras como: "Tribú, menú, último, único,
