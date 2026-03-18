@@ -1,0 +1,10 @@
+¿CÓMO USAR EL PARCHE: TRADUCCIÓN DE MENÚS?
+
+ADVANCED EDITORS >> TEXT EDITOR >> IMPORT/EXPORT >> IMPORT ALL TEXT >> Traducción de menus ver. 2.3.txt
+
+NOTA: Antes de usar el parche, recuerde instalar el parche: NarrowFont para que funcione correctamente
+todo.
+
+¿CÓMO INSTALAR EL PARCHE: NARROWFONT?
+
+TOOLS >> PATCHES >> BARRA DE BUSQUEDA(A LA DERECHA DE FILTER): NARROWFONT >> WRITE.

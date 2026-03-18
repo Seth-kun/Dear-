@@ -1,0 +1,1683 @@
+[0002]
+ La maestría del arma aumentó.
+[0003]
+¡Está rota!
+[0004]
+se ha ido.
+[0005]
+Obtienes 
+[0006]
+de oro.
+[0007]
+el oro fue robado.
+[0008]
+Obtienes 
+[0009]
+fue robado.
+[000A]
+Robaste 
+[000B]
+fue robado.[.]
+[000C]
+Niv. de soporte aumentado.
+[000D]
+Ahora puedes usar 
+[000E]
+Ahora puedes usar 
+[000F]
+Se ha caído 
+[0010]
+Enviaste [.]
+[0012]
+La aldea fue destruida.
+[0013]
+Fuerza aumentada.[.]
+[0014]
+Magia aumentada.[.]
+[0015]
+Habilidad aumentada.[.]
+[0016]
+Velocidad aumentada.[.]
+[0017]
+Suerte aumentada.[.]
+[0018]
+Defensa aumentada.[.]
+[0019]
+Resistencia aumentada.[.]
+[001A]
+Movimiento aumentado.[.]
+[001B]
+Constitución aumentada.[.]
+[001C]
+Máx. PV aumentada.[.]
+[001D]
+Madurez aumentada.[.]
+[1E]
+Nivel perdido.[.]
+[1F]
+Nivel perdido.[.]
+[20]
+Trampa desactivada.
+[21]
+Mina recuperada.
+[0023]
+Cambiar
+[0024]
+Cancelar
+[0090]
+Anim. de combate
+[91]
+Terreno
+[92]
+Unidad
+[93]
+Combate
+[94]
+Ayuda
+[95]
+Autocursor
+[96]
+Vel. del texto
+[97]
+Vel. del juego
+[98]
+Música
+[99]
+Efect. de sonido
+[9A]
+Col. de ventana
+[9B]
+Niv. CPU
+[9C]
+Fin. auto. turno
+[9D]
+Color unid.
+[9E]
+Ver objetivo
+[9F]
+Controlador
+[A0]
+Ver rango
+[A1]
+Ver animación sin fondo
+[A2]
+Ver animación con fondo
+[A3]
+Sin animación de combate
+[A4]
+Elegir las unid. con animación
+[A5]
+Vel. de movimiento (normal)
+[A6]
+Vel. de movimiento (rápido)
+[A7]
+Vel. de mensaje (lento)
+[A8]
+Vel. de mensaje (normal)
+[A9]
+Vel. de mensaje (rápido)
+[AA]
+Vel. de mensaje (automáticamente)
+[AB]
+Mostrar/ocultar ventana de terreno
+[AC]
+Ver recuadro de info. normal
+[AD]
+Ver recuadro de info. resumida
+[AE]
+No ver recuadro de info.
+[AF]
+Ver info. de combate básica
+[B0]
+Ver info. de combate detallada
+[B1]
+No ver info. de combate
+[B2]
+Mostrar/ocultar mensaje de ayuda
+[B3]
+Cursor sobre el héroe autom.
+[B4]
+Finalizar automáticamente el turno
+[B5]
+Activar o desactivar la música
+[B6]
+Activar o desactivar los sonidos
+[B7]
+Cambiar el color de la ventana[.]
+[B8]
+Configurar la IA del enemigo
+[B9]
+Ajustar colores para unid. individuales[.]
+[BA]
+¿Ver el objetivo del capítulo?
+[00BD]
+Sí
+[00BE]
+No
+[00C3]
+Lento
+[00C4]
+Normal
+[00C5]
+Rápido
+[00C6]
+Máx.
+[00C7]
+Solo
+[00C8]
+Básico
+[00C9]
+Detalle
+[00CA]
+Panel
+[00CB]
+Globo
+[00CC]
+SIN DATOS
+[0140]
+Borrar
+[0141]
+Atrás
+[0142]
+Salir
+[0143]
+Iniciar
+[0144]
+Copiar
+[0145]
+Salvar
+[0148]
+Niv
+[0159]
+Final
+[015A]
+Prólogo
+[015D]
+Turn.
+[015F]
+Total Turn.
+[018F]
+Epílogo
+[01C1]
+Falt.
+[01C2]
+Turn.
+[01C3]
+Últ. turno
+[01C5]
+Llano
+[01C6]
+Camino
+[01C7]
+Aldea
+[01C8]
+Aldea
+[01C9]
+Casa
+[01CA]
+Arm.
+[01CB]
+Vend.
+[01CC]
+Arena[.]
+[01CD]
+C.Room
+[01CE]
+Fuerte
+[01CF]
+Puerta
+[01D0]
+Bosque
+[01D1]
+Matorral
+[01D2]
+Arena
+[01D3]
+Desierto
+[01D4]
+Río
+[01D5]
+Montañ.
+[01D6]
+Pico
+[01D7]
+Puente
+[01D8]
+Puente
+[01D9]
+Mar
+[01DA]
+Lago
+[01DB]
+Piso
+[01DC]
+Piso
+[01DD]
+Cerca
+[01DE]
+Muro
+[01DF]
+Muro
+[01E0]
+Escom.
+[01E1]
+Pilar
+[01E2]
+Puerta
+[01E3]
+Trono
+[01E4]
+Cofre
+[01E5]
+Cofre
+[01E6]
+Techo
+[01E7]
+Puerta
+[01E8]
+Iglesia
+[01E9]
+Ruinas
+[01EA]
+Abrupto
+[01EB]
+Balis.
+[01EC]
+B. larga
+[01ED]
+B. ases.
+[01EE]
+Llano
+[01EF]
+Naufr.
+[01F0]
+[0x007F][0x007F]
+[01F1]
+Escal.
+[01F2]
+[0x007F][0x007F]
+[01F3]
+Glaciar
+[01F4]
+Arena
+[01F5]
+Valle
+[01F6]
+Valla
+[01F7]
+Tronco
+[01F8]
+Puente
+[01F9]
+Cielo
+[01FA]
+Profun.
+[01FB]
+Ruinas
+[01FC]
+Posad.
+[01FD]
+Barril
+[01FE]
+Hueso
+[01FF]
+Oscuro
+[0200]
+Agua
+[0201]
+Artill.
+[0202]
+Cubiert.
+[0203]
+Soporte
+[0204]
+Mástil
+[020B]
+Turnos
+[020C]
+Tiempo
+[0268]
+Muro
+[0269]
+Tronco
+[03D2]
+Bailar
+[03D3]
+Tocar
+[0481]
+Una danza que permite[.]
+a los aliados moverse de nuevo.[.]
+[0482]
+Una canción que permite
+a los aliados moverse de nuevo.[.]
+[04BF]
+Permite a los aliados[.]
+moverse de nuevo.
+[04C0]
+Permite a los aliados[.]
+moverse de nuevo.
+[04E5]
+Nom.
+[04E6]
+Clase
+[04E7]
+Niv.
+[04E8]
+Exp
+[04E9]
+PV
+[04EA]
+Máx.
+[04EB]
+F/M
+[04EC]
+Hab
+[04ED]
+Vel
+[04EE]
+Sue
+[04EF]
+Def
+[04F0]
+Res
+[04F1]
+Afin
+[04F2]
+Equip
+[04F3]
+Pod
+[04F4]
+Gol
+[04F5]
+Eva
+[04F6]
+Mov
+[04F7]
+Con
+[04F8]
+Ayu
+[04F9]
+Via.
+[04FA]
+Esta
+[04FB]
+Ali.
+[04FC]
+Anim
+[04FD]
+Orden:
+[04FE]
+Fue
+[04FF]
+Mag
+[0500]
+Alca
+[0501]
+Crít
+[0502]
+Peso
+[0503]
+Pod
+[0504]
+VA
+[0505]
+Esp.
+[0506]
+Lanza
+[0507]
+Hacha
+[0508]
+Arco
+[0509]
+Bastón
+[050A]
+Ánima
+[050B]
+Luz
+[050C]
+Osc.
+[050D]
+Objet.
+[050E]
+Bllsta
+[0514]
+Enven.
+[0515]
+Dormido
+[0516]
+Silenci.
+[0517]
+Locura
+[0518]
+Enfermo
+[0519]
+Recup.
+[051A]
+Petrif.
+[051B]
+Fue.
+[051C]
+Def.
+[051D]
+Crít.
+[051E]
+Eva.
+[0522]
+PM/3
+[051F]
+B
+[0520]
+G
+[0521]
+P
+[052A]
+Total
+[0542]
+Nivel de la unidad.
+La unidad se vuelve más fuerte a
+medida que gana niveles.
+[0543]
+Puntos de experiencia 
+ganados. Gana 100 puntos 
+para ganar un nuevo nivel.[.]
+[0544]
+Puntos de vida de la unidad.
+La unidad muere si pierde
+todos sus puntos de vida.[.]
+[0546]
+Fuerza. Mientras mayor sea
+el número, más daño harás.
+[0547]
+Poder mágico.
+El poder mágico es similar a la
+fuerza.
+[0548]
+Habilidad. Un número mayor 
+mejora el porcentaje
+de acierto de la unidad.[.]
+[0549]
+Velocidad. Esto afecta tanto
+a la evasión como 
+a los ataques.
+[054A]
+Suerte. Afecta a varios
+factores.[.]
+[054B]
+Defensa.
+Reduce el daño de las armas
+físicas.
+[054C]
+Resistencia. Reduce el
+daño de los ataques mágicos.[.]
+[054D]
+Movimiento. La distancia que se 
+puede recorrer en un turno.[.]
+[054E]
+Constitución o fortaleza física.[.]
+Afecta a los rescates.
+[054F]
+Constitución máxima de rescate.
+Una constitución menor
+posibilita el rescate.
+[0550]
+Pasajero.
+El nombre de la unidad con la que
+viaja esta unidad.[.]
+[0551]
+Afinidad elemental. Determina
+la compatibilidad con 
+otras unidades.[.]
+[0552]
+Estado de salud:
+Normal y sano.
+[0553]
+Ooooog...[.]
+El veneno roba
+lentamente PV.
+[0554]
+Zzzz... Zzzzz...
+Durmiendo... No puedo
+moverme...[.]
+[0555]
+¡Rarrrrr! Ataca a la unidad[.]
+más cercana, ¡sea amiga
+o enemiga!
+[0556]
+... La magia y los 
+bastones son inutilizables.
+[0557]
+¡Craaack! Convertido... en...[.]
+piedra. ¡No puedo... 
+moverme!
+[0558]
+El poder de ataque
+está incrementado.
+[0559]
+La defensa y resistencia
+están incrementadas.
+[055A]
+Los 0 de los golpes
+crítico aumentaron.[.]
+[055B]
+La evasión ha sido
+aumentada.
+[055C]
+Cantidad de daño que causa esta
+arma. Afectado por la defensa.[.]
+[055D]
+Posibilidad de que el ataque acierte.
+Afectado por el terreno y los
+enemigos.
+[055E]
+Alcance de la arma.
+El alcance que puede llegar un
+arma a los espacios cercanos.
+[055F]
+Posibilidad de que el arma
+haga un golpe crítico,
+causando el triple de daño.[.]
+[0560]
+Capacidad para evadir los 
+ataques enemigos.[.]
+[0561]
+Nivel de maestría de espada.
+[0562]
+Nivel de maestría de lanza.
+[0563]
+Nivel de maestría de hacha.
+[0564]
+Nivel de maestría de arco.
+[0565]
+Nivel de maestría de ánima.
+[0566]
+Nivel de maestría de luz.
+[0567]
+Nivel de maestría de oscuridad.
+[0568]
+Nivel de maestría de bastón.
+[0569]
+Fortalezca el vínculo[.]
+entre las unidades hablando.[.]
+[056A]
+El nombre de la unidad
+con la que puede hablar.[.]
+[056B]
+Arma o magia en uso.[.]
+[056C]
+Arma o magia en uso.[.]
+[056D]
+Si el portador y el arma es el
+adecuado, el % de Gol. y la
+Fue. aumentarán.[.]
+[056E]
+Si el portador y el arma es el
+adecuado, el % de Gol. y la
+Fue. aumentarán.[.]
+[056F]
+Si el portador y el arma no son
+los adecuados, el % de Gol. y
+la Fue. disminuirán.[.]
+[0570]
+Si el portador y el arma no son
+los adecuados, el % de Gol. y
+la Fue. disminuirán.[.]
+[0571]
+El daño que causará esta arma.[.]
+x2 = dos ataques, 
+x4 = cuatro ataques.
+[0572]
+Velocidad de ataque.[.]
+Determina el número 
+de ataques.[.]
+[0573]
+Defensa.
+Disminuye el daño de los ataques.
+[0574]
+Unidades
+[0576]
+Objetos
+[0577]
+Apoyos
+[0578]
+Ver mapa
+[0579]
+Guardar
+[057A]
+Selecciona qué unidades[.]
+desplegar en esta 
+batalla. Hay un límite de 
+unidades desplegables.
+[057B]
+Gestiona los objetos.
+Los objetos que
+aparecen en gris[.]
+no pueden ser utilizados.
+[057C]
+Gestiona los objetos 
+de tus unidades.[.]
+[057D]
+Esta opción no
+puede usarse.
+[057F]
+Comprueba la 
+compatibilidad de
+tus unidades.[.]
+[0580]
+Vea el mapa del 
+capítulo y, cambie las
+posiciones de tus 
+unidades.
+[0581]
+Guarda tus partidas.
+[0583]
+Elige unidad[.]
+[0585]
+¿Estás seguro?[.]
+[0590]
+Ver mapa
+[0591]
+Formación[.]
+[0592]
+Opciones[.]
+[0594]
+Interc.
+[0595]
+Lista
+[0596]
+Usar
+[0597]
+Vende
+[0598]
+Carro
+[0599]
+Arm.
+[059A]
+Dar
+[059E]
+Dar
+[059F]
+Llevar
+[05A0]
+Total
+[05A1]
+Elig.
+[05A2]
+Más. Tot.
+[05A3]
+Vende los obj. que no quieras.
+[05A4]
+¿Seguro?
+[05A5]
+¿Qué harás?
+[05A6]
+Lo tomaré.
+[05A7]
+¡Aquí tienes!
+[05A8]
+Nada
+[05A9]
+Dueño:
+[05AA]
+Éxito
+[05AB]
+Restante
+[05AD]
+Seleccionar personaje
+[05AF]
+Intercambiar objetos
+entre unidades.
+[05B0]
+Usar objetos.
+[05B1]
+Transferir artículos al[.]
+carro.[.]
+[05B2]
+Compra y venta 
+de objetos.[.]
+[05B3]
+Mostrar todos los objetos 
+de las unidades.[.]
+[05B4]
+Vende tus objetos innecesarios.[.]
+Los objetos importantes 
+no se pueden vender.[.]
+[05B5]
+Coloca todos los 
+objetos en el carro.[.]
+[05B6]
+Guardar objetos. El lord[.]
+puede acceder al carro 
+en mitad del mapa.
+[05B7]
+Recibir objeto.[.]
+Una unidad puede llevar
+hasta 5 objetos.[.]
+[05BB]
+Ver el mapa de la batalla
+o ver los objetos de las
+tiendas.
+[05BC]
+Reorganice la formación
+de sus unidades.
+[05BD]
+Configura la velocidad del 
+juego y opciones de 
+ventana.[.]
+[05BE]
+Guardar la campaña actual.
+[05BF]
+Empieza el combate.[.]
+[05D4]
+Sobre: [.]
+[0645]
+ Unid.
+[0646]
+ Estatus[.]
+[0647]
+ Guía
+[0648]
+ Opciones
+[0649]
+ Guardar
+[066E]
+  Entrar armería[.]
+[066F]
+ Entrar tienda[.]
+[0670]
+ Entrar ? tienda[.]
+[0671]
+ Gestionar obj.[.]
+[0672]
+ Entrar armería[.]
+[0673]
+Entrar tienda[.]
+[0674]
+Entrar ? tienda
+[0675]
+Gestionar obj.[.]
+[0676]
+El próximo destino del grupo. [.]
+[0677]
+El número de tus unidades
+[0678]
+Gestionar objetos de
+tus unidades.
+[0679]
+Guardar. Para reanudar el juego, 
+selecciona Reiniciar Capítulo.
+[067A]
+ Tomar
+[067B]
+ Atacar
+[067C]
+ Bastón
+[067D]
+ Tocar
+[067E]
+ Bailar
+[067F]
+ Robar
+[0680]
+ Hablar
+[0681]
+ Apoyo
+[0682]
+ Visitar
+[0683]
+ Cofre
+[0684]
+ Puerta
+[0685]
+ Armería
+[0686]
+ Tienda
+[0687]
+ Secreto
+[0688]
+ Arena
+[0689]
+ Rescate
+[068A]
+ Soltar
+[068B]
+ Recibir
+[068C]
+ Pasar
+[068D]
+ Objeto
+[068E]
+ Interca.
+[068F]
+ Carro
+[0690]
+ Estado
+[0691]
+ Conducir
+[0692]
+ Salir
+[0693]
+ Invocar
+[0694]
+ Abrir
+[0695]
+ Esperar
+[0696]
+ Usar
+[0697]
+ Equipar
+[0698]
+ Interc
+[0699]
+ Tirar
+[069A]
+ Unidad
+[069B]
+ Opciones
+[069C]
+ Guía
+[069D]
+ Retirar.
+[069F]
+ Suspend.
+[06A0]
+ Fin
+[06BF]
+Fin de la acción.
+Asegúrate de no dejar
+nada por hacer.
+[06C0]
+Ataca a una unidad enemiga.[.]
+[06C1]
+Usa la magia almacenada 
+dentro de un bastón.[.]
+[06C2]
+Realiza una danza que permita[.]
+a tus aliados moverse de nuevo.
+[06C3]
+Utilice un anillo para que los[.]
+aliados puedan moverse de nuevo.[.]
+[06C4]
+Shhh...[.]
+(¡Roba objetos enemigos!)
+[06C5]
+Rescata a un aliado en un
+espacio adyacente.[.]
+[06C6]
+Coloca a un aliado rescatado[.]
+en un espacio adyacente.
+[06C7]
+Pasa un aliado rescatado 
+a otro aliado a tu lado.[.]
+[06C8]
+Recibe un aliado rescatado de[.]
+otro aliado.[.]
+[06C9]
+Habla con un aliado o enemigo 
+en un espacio adyacente.[.]
+[06CA]
+Habla con una unidad aliada y[.]
+refuerza el vínculo que comparten.
+[06CB]
+Visita un pueblo o una casa.
+[06CC]
+Toma un punto designado 
+para completar el capítulo.
+[06CD]
+Una puerta.[.]
+Utilice una llave para abrirla.[.]
+[06CE]
+Un cofre.
+Utilice una llave para abrirlo.[.]
+[06CF]
+Una armería.
+Entra para comprar armas.[.]
+[06D0]
+Una tienda.[.]
+Ingresa para comprar artículos.[.]
+[06D1]
+¡Enhorabuena! Solo para[.]
+afortunados como tú...
+[06D2]
+Una arena. Apuesta tu vida 
+en la batalla por el oro.[.]
+[06D3]
+Usar y preparar objetos
+para ser usados.
+[06D4]
+Intercambia artículos con aliados[.]
+en espacios adyacentes.[.]
+[06D5]
+Las unidades pueden sacar o dejar[.]
+objetos con en tu carro de suministros.
+[06D6]
+Sube a la balista y[.]
+úsala para atacar.[.]
+[06D7]
+Sal de la balista.
+[06D8]
+Se produce un ataque 
+normal con un arco.[.]
+[06D9]
+Usa la balista para atacar
+a enemigos a distancia.
+[06DA]
+Prepara armas o magia.[.]
+Úsalas para contraatacar.
+[06DB]
+Usar objetos.
+[06DC]
+Descartar artículos.
+Los artículos importantes no se
+pueden descartar.
+[06DD]
+Invoca un fantasma.
+[06DE]
+Abrir puertas y cofres sin[.]
+utilizar llaves.[.]
+[06DF]
+Muestra un gráfico de todas las
+unidades en el campo.[.]
+[06E0]
+Muestra el progreso de la
+batalla actual.[.]
+[06E1]
+Establece la velocidad y
+las ventanas del juego.[.]
+[06E2]
+Retírate de la batalla actual.
+[06E3]
+Ver la torre y las ruinas de 
+los registros de batalla.
+[06E4]
+Detener una batalla en curso.
+La batalla puede continuar más tarde.
+[06E5]
+Ver explicaciones sobre el 
+juego y la terminología.[.]
+[06E6]
+Finaliza la fase del jugador.[.]
+[06E7]
+Nombre de la unidad.[.]
+[06E8]
+La clase de la unidad.
+Cada clase posee rasgos únicos.
+[06E9]
+PV máx. actual.[.]
+[06EA]
+Fuerza o poder mágico.
+Esto afecta a la 
+capacidad de ataque.
+[06EB]
+Arma o tomo mágico
+que se utiliza.[.]
+[06EC]
+Estado físico.[.]
+Por defecto es normal.
+[06ED]
+Número de unidades aliadas.[.]
+[06EE]
+Número de unidades enemigas.
+[06EF]
+Nombre del comandante del ejército.[.]
+[06F0]
+Tiempo total jugado.
+[06F1]
+El objetivo de este capítulo.[.]
+[06F2]
+Número de turnos jugados en este
+punto del capítulo actual.[.]
+[06F3]
+Dinero en mano.
+[06F4]
+Solo las unidades con animación
+activada pueden realizar animaciones
+de combate.
+[0843]
+Sí
+[0844]
+No
+[0845]
+Comprar
+[0846]
+Vender
+[084B]
+¿Tirar [.][Item]?[.]
+[No]
+[084C]
+No puedes visitar pueblos o[.]
+casas mientras estés silenciado.
+[084D]
+No puedes equipar[.]
+esta arma.
+[084E]
+El nivel de tu arma[.]
+es demasiado bajo.[.]
+[084F]
+Los tesoros no se 
+pueden soltar.
+[0850]
+Los tesoros no se pueden vender.[.]
+[0851]
+No puedes usar un bastón[.]
+mientras estés silenciado[.]
+[0852]
+No puedes hablar[.]
+mientras estés silenciado[.]
+[0853]
+No puedes entrar en la[.]
+arena mientras estás silenciado.[.]
+[0854]
+No puedes luchar, así que[.]
+no puedes entrar en la arena.
+[0855]
+Las armas, magias y[.]
+bastones no pueden ser robados.[.]
+[0856]
+No hay nada que reparar.
+[0857]
+Solo las armas, tomos y
+bastones pueden repararse.[.]
+[0858]
+No hay más munición para
+la balista.[.]
+[0859]
+No hay necesidad de eso.[.]
+[085A]
+Esto no se puede usar.[.]
+[085B]
+Debes ser superior al Niv. 10.[.]
+[085C]
+Debes ser superior al Niv. 10.[.]
+[085D]
+No hay puerta.
+[085E]
+No hay cofres.
+[085F]
+Solo para ladrones.
+[0860]
+Arma especializada.[.]
+[0861]
+Ni puertas ni cofres.[.]
+[0862]
+Tu inventario está lleno.[.]
+[0863]
+El objeto no se puede reparar.
+[0865]
+Tu carro de suministros está lleno.[.]
+Selecciona un objeto para descartar.[A]
+[0866]
+Inventario lleno. Selec. un objeto para tirar.
+[0867]
+Inventario lleno. Envía un artículo al carro.[.]
+[0868]
+Selec. una unidad para rescatar.
+[0869]
+Selec. el espacio para colocar la unidad.
+[086A]
+Selec. una unidad para recibir al viajero.
+[086B]
+Selec. una unidad para entregarle al viajero.
+[086C]
+Selec. una unidad para intercambiar.
+[086D]
+Selec. una unidad para robar.
+[086E]
+Selec. en qué unidad usar el bastón.
+[086F]
+Selec. con qué unidad hablar.
+[0870]
+Selec. unidad para reanimar.
+[0871]
+Selec. adónde teletransportar.
+[0872]
+Reordena tus unidades.[.]
+[0873]
+Selec. un arma para atacar.[.]
+[0874]
+Selec. una unidad para restaurar PV.
+[0875]
+Selec. una unidad para teletransportar.
+[0876]
+Selec. qué personaje traer a tu lado.
+[0877]
+Selec. que unidad restaurar.
+[0878]
+Selec. que unidad debe reparar su arma.
+[0879]
+Selec. qué resistencia del personaje reforzar.[.]
+[087A]
+Selec. que puerta abrir.
+[087B]
+Selec. en qué unidad usar el bastón.
+[087C]
+Selec. que área iluminar.
+[087D]
+Selec. un área para poner la trampa.[.]
+[087E]
+Selec. un área para poner la trampa.[.]
+[087F]
+Selec. una unidad para bendecir.
+[0880]
+Selec. en qué espacio invocar.
+[0881]
+Selec. el espacio para abrir.
+[0882]
+Los datos suspendidos se perderán.
+¿Está bien?
+[0896]
+¡Bienvenidos a la armería![A][Clear]
+Estas son las armas[.]
+que tenemos a la venta.[.][A]
+[0897]
+¡Bienvenidos a la tienda general![A][Clear]
+Aquí están todos los artículos que
+tenemos a la venta.[.][A]
+[0898]
+Vuelve pronto.
+[0899]
+Vuelve pronto.
+[089A]
+Bienvenido a la armería.[A][Clear]
+Me dedico a todo tipo de armas.[.]
+[Buy/Sell]
+[089B]
+Bienvenido a la tienda general.[.][A][Clear]
+¿En qué puedo ayudarle?[.]
+[Buy/Sell]
+[089C]
+Shhh... Je, je...[A][Clear]
+¡Esta es una tienda secreta!
+[Buy/Sell]
+[089D]
+¿Necesitas algo más?
+[Buy/Sell]
+[089E]
+¿Necesitas algo más?
+[Buy/Sell]
+[089F]
+¿Necesitas algo más?
+[Buy/Sell]
+[08A0]
+¿Necesita algo más?
+[ShopContinue]
+[08A1]
+¿Necesita algo más?
+[ShopContinue]
+[08A2]
+¿Necesita algo más?
+[ShopContinue]
+[08A3]
+¿Qué le gustaría?
+[08A4]
+¿Qué puedo hacer
+por ti?[.]
+[08A5]
+¿Qué le gustaría?
+[08A6]
+¿Algo más?
+[08A7]
+¿Algo más?
+[08A8]
+¿Alguna otra cosa?
+[08A9]
+¿Qué quieres vender?[.]
+[08AA]
+¿Qué quieres vender?[.]
+[08AB]
+¿Qué quieres vender?[.]
+[08AC]
+¡No tienes nada que vender!
+[08AD]
+¡No tienes nada que vender!
+[08AE]
+¡No tienes nada que vender!
+[08AF]
+¿Quieres vender algo más?
+[08B0]
+¿Quieres vender algo más?
+[08B1]
+¿Quieres vender algo más?
+[08B2]
+¡No tienes el dinero![.][A]
+[08B3]
+¡No tienes el dinero![.][A]
+[08B4]
+¡Je! ¡No tienes 
+suficiente dinero![A]
+[08B5]
+Es un total de [.][G] oro.[.]
+¿Te parece bien?[.][Yes]
+[08B6]
+Es un total de [.][G] oro.[.]
+¿Te parece bien?[.][Yes]
+[08B7]
+Es un total de [.][G] oro.[.]
+¿Te parece bien?[.][Yes]
+[08B8]
+Vuelve pronto.
+[08B9]
+Vuelve pronto.
+[08BA]
+Je, je... ¡Adiós![.][A]
+[08BB]
+No puedo comprar eso.[.][A]
+[08BC]
+No puedo comprar eso.[.][A]
+[08BD]
+Je, je... Espera un minuto.[.]
+¡No puedo comprar eso![.][A]
+[08BE]
+Parece que estás a tope.[.][A][Clear]
+¿Quieres mandarlo al carro?[.]
+[Yes]
+[08BF]
+Parece que estás a tope.[.][A][Clear]
+¿Quieres mandarlo al carro?[.]
+[Yes]
+[08C0]
+Parece que estás a tope.[.][A][Clear]
+¿Quieres mandarlo al carro?[.]
+[Yes]
+[08C1]
+Parece que estás lleno.[.][A]
+[08C2]
+Parece que estás lleno.[.][A]
+[08C3]
+Parece que estás lleno.[.][A]
+[08C4]
+De acuerdo. Lo enviaré ahora.[A]
+[08C5]
+De acuerdo. Lo enviaré ahora.[A]
+[08C6]
+Je, je... Lo enviaré entonces.[.][A]
+[08C7]
+¿No? Lástima. Podrías
+llevarlo si hicieras lugar.[.][A]
+[08C8]
+¿No? Lástima. Podrías
+llevarlo si hicieras lugar.[.][A]
+[08C9]
+¿No? Lástima. Podrías
+llevarlo si hicieras lugar.[.][A]
+[08CA]
+Lástima que no tengas un
+carro de suministros para enviarlo.[A]
+[08CB]
+Lástima que no tengas un
+carro de suministros para enviarlo.[A]
+[08CC]
+Lástima que no tengas un
+carro de suministros para enviarlo.[A]
+[08CD]
+¡Tu carro también está
+lleno! ¡Reorganiza tus cosas![A]
+[08CE]
+¡Tu carro también está
+lleno! ¡Reorganiza tus cosas![A]
+[08CF]
+Je... Su carro está lleno,
+también. Reorganiza tus cosas...[A]
+[08D0]
+¡Bienvenido a la arena![.][A]
+[08D1]
+Bienvenido a la arena.[.][A]
+¡Oh! Eres tú otra vez.[.][A][Clear]
+He perdido mucho oro[.]
+gracias a ti...[A][ Clear]
+Si quieres continuar,[A]
+vamos a tener que
+hacer las cosas de
+otra manera.[A][Clear]
+Voy a preparar algunos[.]
+enemigos más desafiantes.[A]
+[08D2]
+¿Le gustaría apostar[.]
+[G] oro?[Yes]
+[08D3]
+Buena suerte. 
+Que no te maten.
+[08D4]
+¿Qué es eso? ¡Bah!
+¡Fuera de aquí![.][A]
+[08D5]
+Lucha hasta que caigas, o pulsa[.]
+el Botón B para rendirte.[A]
+[08D6]
+Así que has ganado, ¿eh? 
+Aquí tienes tu premio: [G] oro.[A]
+[08D7]
+Ahh, ¿perdiste? Esperaba
+algo mejor de ti.
+[08D8]
+¿Qué? ¿Te rindes? Bueno...
+¡tu oro es mío, entonces![A]
+[08D9]
+Parece que nadie gana. Aquí está
+su  dinero de vuelta.[.][A]
+[08DA]
+¡No tienes el dinero![.]
+Intentalo más tarde.[A]
+[08FC]
+¿Retirarse?        
+[No]
+[08FD]
+¿Siguiente piso?
+[08FE]
+[OpenLeft][LoadFace][0x164][OpenLeft]¿Quieres dejarlo?
+[Yes]
+[08FF]
+[OpenLeft]La próxima vez,
+elige Reanudar Capítulo para[A]
+terminar esta batalla.[A]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

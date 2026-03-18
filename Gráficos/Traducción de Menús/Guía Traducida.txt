@@ -1,0 +1,730 @@
+[05C1]
+Capítulo 1
+[05C2]
+Capítulo 2
+[05C3]
+Capítulo 3
+[05C4]
+Capítulo 4
+[05C5]
+Capítulo 5
+[05C6]
+Capítulo 6
+[05C7]
+Capítulo 7
+[05C8]
+Capítulo 8
+[05C9]
+Reglas básic.
+[05CA]
+Movimiento
+[05CB]
+Combate
+[05CC]
+Rescatar
+[05CD]
+Objetos
+[05CE]
+Terreno
+[05CF]
+Aliados
+[05D0]
+Victoria
+[05D1]
+Guardar
+[05D2]
+Mapa
+[05D3]
+Otro
+[05D4]
+Sobre: [.]
+[05D5]
+Ver unidades
+[05D6]
+Flujo del juego
+[05D7]
+Fin del juego
+[05D8]
+Rango de movimiento
+[05D9]
+Canto
+[05DA]
+Alcance
+[05DB]
+Tríangulo de armas
+[05DC]
+Trinidad de la magia
+[05DD]
+Efect. de armas
+[05DE]
+Golpes críticos
+[05DF]
+Defensa física
+[05E0]
+Defensa mágica
+[05E1]
+Restaurar PV
+[05E2]
+Estados
+[05E3]
+Info. estratégica de combate
+[05E4]
+Info. detallada de combate
+[05E5]
+Rescate
+[05E6]
+Dejar
+[05E7]
+Adquirir objeto
+[05E8]
+Usar objeto
+[05E9]
+Interc. objeto
+[05EA]
+Usos del arma
+[05EB]
+Carro
+[05EC]
+Armería
+[05ED]
+Tienda
+[05EE]
+Bosques y montañas
+[05EF]
+Fuertes y puertas de cast.
+[05F0]
+Casas
+[05F1]
+Aldeas
+[05F2]
+Cofres
+[05F3]
+Troncos
+[05F4]
+Muro dañado
+[05F5]
+Niebla y noche
+[05F6]
+Balista
+[05F7]
+Adquirir objetos
+[05F8]
+Retiro de unidad
+[05F9]
+Apoyos
+[05FA]
+Efectos de apoyos
+[05FB]
+Reclutar unid. verde
+[05FC]
+Reclutar unid. roja
+[05FD]
+Derrotar un jefe
+[05FE]
+Tomar el lugar
+[05FF]
+Derrotarlos a todos
+[0600]
+Defensa
+[0601]
+Suspender
+[0602]
+Guardar
+[0603]
+Cómo moverse
+[0604]
+Tiendas
+[0605]
+Gestión de objetos
+[0606]
+Monstruos
+[0607]
+Preparación
+[0608]
+Subir de nivel
+[0609]
+Cambiar de clases
+[060A]
+Botón R info.
+[060B]
+Arena[.]
+[060C]
+Escapar
+[060D]
+Las unidades se dividen en
+los siguientes tres tipos:
+Jugador (azul)[.]
+Enemigo (rojo)[.]
+Neutral (verde)[.]
+Las unidades azules son[.]
+controladas por el jugador.[.]
+Las unidades rojas son[.]
+enemigas y deben ser
+derrotadas.
+Las unidades rojas atacarán
+tanto a azules como a verdes,[.]
+así que ten cuidado.[.]
+[060E]
+Las unidades se mueven por
+turnos en el siguiente orden:
+    1. Jugador (azul)
+    2. Enemigo (rojo)
+    3. Neutral (verde)
+[060F]
+Si los puntos de vida de un[.]
+personaje principal se reducen
+a cero, el juego termina[.]
+[0610]
+El área azul que aparece
+cuando seleccionas una[.]
+unidad es su rango de
+movimiento.[.]
+Coloca el sobre una[.]
+unidad enemiga para ver
+su rango de movimiento.[.]
+[0611]
+Las unidades montadas pueden
+volver a moverse después 
+de visitar hogares o aldeas 
+si les queda movimiento. 
+Esto es más habitual entre 
+los jinetes y las 
+caballeras pegasos.
+[0612]
+El área roja que aparece cuando[.]
+seleccionas una unidad en su
+rango de ataque. Coloca el[.]
+cursor sobre una unidad enemiga
+para ver su alcance de ataque.[.]
+[0613]
+Cada tipo de arma tiene sus 
+propias fortalezas y debilidades.
+Las espadas son eficaces 
+contra las hachas. Las hachas 
+son eficaces contra las lanzas.
+Las lanzas son eficaces 
+contra las espadas.
+Esto se denomina el
+triángulo de armas.
+[0614]
+Cada tipo de magia tiene sus 
+propias fortalezas y debilidades.[.]
+La luz es fuerte contra 
+la oscuridad. La oscuridad es 
+fuerte contra el ánima.[.]
+El ánima es fuerte 
+contra la luz. Esto se 
+denomina la 
+trinidad de la magia.[.]
+[0615]
+Algunas armas son 
+especialmente[.]
+eficaces contra ciertas 
+unidades.
+Estas armas causarán 
+graves daños a esas 
+unidades. Por
+ejemplo, los arcos son 
+particularmente eficaces 
+contra las unidades 
+voladoras.[.]
+Los iconos de 
+armas en la ventana
+de información de combate
+brillarán cuando tu unidad se 
+enfrente a un enemigo que 
+sea débil contra esa arma.
+[0616]
+Los golpes críticos infligen
+tres veces el daño normal a
+los enemigos. 
+Tu probabilidad de
+realizar un golpe crítico 
+varía en función de los 
+atributos de tu 
+unidad y del arma con la que
+estés atacando.
+[0617]
+Cualquier ataque con un 
+arma es un ataque físico. 
+El atributo Def. (defensa)
+de cada unidad[.]
+indica su capacidad 
+para defenderse[.]
+de los ataques físicos. 
+Cuanto mayor sea 
+el número, menos[.]
+daño recibirá. Los 
+caballeros y
+mercenarios tienen
+una buena defensa.
+[0618]
+Cualquier ataque con magia se 
+denomina ataque mágico. 
+El atributo Res. (resistencia) 
+de tu unidad muestra su 
+capacidad para defenderse[.]
+de ellos. Cuanto mayor sea el
+número, menos daño recibirá.
+Los magos, monjes, clérigos
+y chamanes tienen 
+una gran resistencia.[.]
+[0619]
+Restaure los puntos de salud de 
+sus unidades utilizando[.]
+pociones, elixires y bastones.[.]
+Las pociones y 
+elixires solo curan
+al usuario, mientras que los 
+bastones solo curan
+a las unidades sobre las que se
+utilizan. Elija cuidadosamente 
+sus objetos curativos 
+en la batalla.
+[061A]
+Hay cinco estados anormales
+en los que puede 
+entrar una unidad:[.]
+1. Sueño
+(dormido e incapaz de moverse).[.]
+2. Silencio
+(incapaz de usar 
+magia o bastones).[.]
+3. Veneno[.]
+(recibe daño continuo).[.]
+4. Locura
+(ataca tanto a enemigos 
+como a aliados).[.]
+5. Petrificación
+(se convierte en piedra, 
+no puede moverse).
+Estas condiciones 
+continuarán durante 
+varios turnos. Se pueden
+revertir con un 
+bastón restaurar.
+[061B]
+Esta es la información que
+se muestra si selecciona
+la ventana de estratégica
+de combate:
+PV: PV restante de la unidad.
+Po: Cantidad de daño que
+inflige arma equipada inflige.[.]
+Gol: Probabilidad de que
+un ataque impacte.
+Crít: Probabilidad de que
+el arma golpe crítico.[.]
+[061C]
+Esta es la información que
+se muestra si eliges la
+ventana detallada[.]
+de información de combate:
+PV: PV restante de la unidad.
+Atq: Cantidad de daño que
+ataque infligirá.
+Def: Cantidad de daño que
+los ataques enemigos[.]
+reducirán los ataques.[.]
+Gol: Probabilidad de que
+un ataque impacte.
+Crít: Probabilidad de que
+el arma dé un golpe crítico.
+VA: La velocidad de ataque
+de cada unidad ataque de
+cada unidad, que determina
+ataques realiza cada unidad.[.]
+[061D]
+Cualquier unidad puede 
+rescatar a una unidad azul o[.]
+verde en una casilla adyacente.[.]
+Sin embargo, 
+tu constitución debe[.]
+ser superior a la de la unidad[.]
+que intentas rescatar.
+La unidad rescatadora 
+sufre una[.]
+penalización en 
+velocidad y habilidad,[.]
+pero la unidad rescatada queda[.]
+protegida de los ataques.[.]
+Si una unidad está 
+a punto de perder todos
+sus puntos de vida, 
+utiliza el comando de rescate[.]
+para ponerla a salvo.
+[061E]
+Puedes colocar una unidad 
+rescatada en cualquier casilla 
+adyacente. La unidad colocada
+no podrá moverse[.]
+hasta el siguiente turno.
+[061F]
+Puedes comprar objetos en[.]
+las tiendas. También 
+puedes recogerlos[.]
+visitando a los aldeanos y
+abriendo cofres. Los enemigos[.]
+a veces sueltan objetos cuando[.]
+son derrotados.
+[0620]
+Elige un objeto de la lista de 
+objetos y pulsa el botón A[.]
+para utilizarlo. 
+Los objetos que no
+pueden ser utilizados por 
+esa unidad 
+aparecerán en gris.[.]
+[0621]
+Puedes intercambiar objetos 
+con unidades en casillas 
+adyacentes. 
+Selecciona intercambiar[.]
+en el menú de comandos 
+y, a continuación,
+selecciona la unidad con la 
+que quieres intercambiar. 
+A continuación, coloca el
+cursor sobre el 
+objeto que deseas
+tomar del inventario de 
+la otra unidad y
+pulsa el botón A
+para recibir ese objeto.[.]
+[0622]
+Los objetos tienen un número
+limitado de usos.
+Cada vez que usas un objeto,
+su durabilidad disminuye.
+El número que aparece junto
+a un objeto indica cuántas
+veces puede usarse.
+Cuando ese número llega a 0,
+el objeto se rompe y desaparece[.].
+Ten cuidado de no dejar que los
+objetos lleguen a 0 en el calor
+de la batalla.[.]
+[0623]
+Un carro de suministros 
+viaja con tu personaje 
+principal. Si te
+mueves a un espacio 
+adyacente a tu carro 
+de suministros, 
+puedes intercambiar
+objetos con él. En la pantalla 
+de preparación de batalla,
+también puedes comprar y 
+vender objetos en el
+carro de suministros. 
+El carro puede
+almacenar hasta 
+100 objetos para ti.
+[0624]
+Mueve una unidad a 
+una armería y luego elige 
+Armería para comprar[.]
+armas. También puedes 
+vender los objetos que
+hayas recogido aquí.
+[0625]
+Muévete a una tienda y[.]
+luego elige Tienda 
+para comprar y[.]
+vender objetos, tomos
+mágicos y bastones.[.]
+[0626]
+Los bosques y las montañas
+proporcionan cobertura adicional 
+a las unidades. Cuando
+tus unidades se encuentren en
+estas casillas, los 
+porcentajes de
+golpe del enemigo se verán[.]
+reducidos. Al entrar en el 
+alcance de ataque[.], 
+intenta detenerte en 
+uno de estos espacios.[.]
+[0627]
+Cualquier unidad que termine 
+su turno en una fortaleza, 
+puerta de castillo,[.]
+puerta o trono recuperará[.]
+automáticamente algunos 
+puntos de vida al
+comienzo del siguiente turno.[.]
+[0628]
+Mueve una unidad a una 
+casa para visitar[.]
+a los ocupantes de esa casa.
+Esta es una buena 
+forma de obtener[.]
+información útil que podría[.]
+inclinar la balanza a tu 
+favor en la batalla.
+Visita las casas siempre 
+que tengas[.]
+la oportunidad.
+[0629]
+Mueve una unidad 
+a una aldea para[.]
+hablar con sus aldeanos.[.]
+Puedes obtener información,[.]
+objetos e incluso dinero de
+las aldeas, así que visítalas si
+tienes la oportunidad.[.]
+[062A]
+Mueve las unidades a los 
+espacios con 
+cofres para abrirlos.
+Los cofres están llenos de 
+todo tipo de objetos útiles. 
+Sin embargo, necesitarás[.]
+una llave o ganzúas[.]
+para abrir el cofre.
+[062B]
+Si ves un viejo 
+tronco cerca de[.]
+un río, derríbalo para[.]
+formar un puente improvisado.[.]
+[062C]
+Ataca las paredes 
+agrietadas para[.]
+destruirlas y crear[.]
+nuevos caminos.
+[062D]
+La oscuridad y la 
+niebla limitan tu[.]
+campo de visión, impidiéndote[.]
+ver a los enemigos lejanos.
+Usa ladrones, antorchas y[.]
+bastones antorchas 
+para aumentar tu[.]
+campo de visión.
+[062E]
+Estas armas de asedio[.]
+disparan proyectiles 
+desde largas[.]
+distancias. Coloca un 
+arquero o tirador sobre 
+ellas para usarlas.[.]
+[062F]
+En tu misión, te encontrarás
+con muchos personajes que
+podrían unirse a tu causa. 
+Presta atención a las 
+pistas de la historia
+para descubrir quién 
+debe hablar
+con estos personajes y 
+convencerlos
+de que se unan a ti.
+[0630]
+Salvo en casos excepcionales, 
+si una de tus unidades pierde 
+todos sus puntos de vida,
+se retirará de la batalla y no 
+podrá volver a
+luchar. ¡Ten cuidado!
+[0631]
+Algunas unidades tienen 
+vínculos especiales[.]
+entre ellas. Cuanto más tiempo[.]
+pasen en espacios contiguos,
+más fuerte se hará ese vínculo.[.]
+Una vez que este vínculo sea 
+lo suficientemente fuerte,
+aparecerá el 
+comando Apoyo[.]
+en el menú de comandos.
+Selecciónalo para que
+los personajes compartan 
+una conversación de apoyo.[.]
+[0632]
+Si las unidades de apoyo 
+están a menos de tres 
+espacios de distancia 
+entre sí, ambas
+obtienen bonificaciones 
+especiales de combate.
+Hay tres niveles de apoyo. 
+Cuanto más alto sea el nivel,
+mejores serán las bonificaciones
+recibidas. Los niveles de apoyo 
+aumentan cada vez que
+las unidades comparten 
+una conversación.
+[0633]
+Las unidades verdes son 
+neutrales. Pueden
+convertirse en 
+aliadas si les hablas.
+Si te mueves a un 
+espacio adyacente 
+a una unidad verde, 
+puede aparecer 
+el comando Hablar.
+Elige [OpenQuote]Hablar[CloseQuote] 
+para convencer a la unidad 
+de que se una a ti.
+[0634]
+Algunas unidades enemigas 
+se unirán a ti si hablas con ellas. 
+Mueve un personaje que creas 
+que pueda conocer
+a esa unidad 
+enemiga a un espacio
+adyacente a ella para ver si[.]
+pueden hablar.[.]
+¡Ten cuidado! Las unidades 
+enemigas seguirán atacando
+hasta que hables con ellas. 
+Intenta no eliminarlas[.]
+ni ser eliminado antes de[.]
+tener la oportunidad de charlar.
+[0635]
+Si derrotas al jefe enemigo,
+despejas el mapa.
+No es necesario derrotar a
+todas las unidades enemigas.[.]
+[0636]
+Mueve al personaje 
+principal a un
+trono, puerta del
+castillo, puerta u [.]
+otro lugar similar y 
+selecciona Tomar en el
+menú de comandos [.]
+para terminar el mapa. [.]
+[0637]
+Despeja el mapa eliminando[.]
+todas las unidades enemigas.
+[0638]
+Resiste al enemigo durante
+un número determinado de turnos 
+para terminar el mapa.
+[0639]
+Elige Suspend. en el menú
+de comandos para guardar
+tu partida durante una batalla.[.]
+La próxima vez que juegues,
+elige Reanudar Capítulo 
+para seguir jugando 
+donde lo dejaste.[.]
+[063A]
+Elige Guardar en el 
+mapa del mundo
+para guardar los datos 
+del juego entre
+capítulos.[.]
+[063B]
+Coloca el cursor en un espacio[.]
+y pulsa el botón A para[.]
+desplazarte a esa ubicación.
+[063C]
+Algunas zonas del mapa 
+del mundo contienen 
+tiendas. Puedes ver[.]
+dónde se encuentran 
+las tiendas colocando 
+el cursor sobre una ubicación
+y viendo los iconos 
+de las tiendas que[.]
+aparecen junto al 
+nombre del lugar.
+Puedes entrar en cualquiera
+de estas tiendas si el
+personaje principal
+se encuentra en esa
+ubicación.
+[063D]
+Gestiona los objetos 
+de tus unidades[.]
+colocando el cursor sobre el[.]
+personaje principal y pulsando[.]
+el botón A.[.]
+[063E]
+A veces, aparecerán criaturas
+en un área que ya has[.]
+despejado. Para ahuyentar a los[.]
+monstruos, ve a esa área[.]
+y lucha contra los demonios.
+[063F]
+Prepara tus 
+unidades para la batalla[.]
+antes de entrar en el 
+campo de batalla.
+Elige qué 
+unidades lucharán y
+gestiona las armas y
+los objetos que 
+utilizarán en la batalla.
+Pulsa START 
+para comenzar
+el combate.
+[0640]
+Las unidades 
+ganan EXP (puntos de
+(puntos de 
+experiencia) luchando y
+usando bastones. 
+Suben de nivel cuando
+ganan 100 EXP. A medida
+que suben de nivel,
+los personajes
+se hacen más fuertes,
+más hábiles, etc.[.]
+El nivel más alto es el 20.[.]
+[0641]
+La mayoría de las 
+unidades pueden 
+cambiar de clase[.]
+una vez que alcanzan 
+el nivel 10.[.]
+Cambiar de clase 
+mejora drásticamente[.]
+las habilidades de una unidad.
+Si te encuentras en 
+una batalla difícil, asegúrate[.]
+de cambiar de clase. Al
+cambiar de clase, podrás
+elegir entre dos clases.
+¡Observa la composición
+general del grupo[.]
+antes de decidir![.]
+[0642]
+Si hay un comando 
+con el que no estás[.]
+familiarizado, 
+coloca el cursor[.]
+sobre él y pulsa el botón R.[.]
+Esto mostrará una 
+explicación sencilla[.]
+del comando.[.]
+[0643]
+Visita una arena y 
+apuesta tu 
+dinero y tu vida en un
+combate individual[.].
+Mueve una 
+unidad a una[.]
+arena y selecciona 
+Arena en[.]
+el menú de comandos 
+para entrar. Si ganas la
+batalla, obtendrás[.]
+el doble de lo que 
+apostaste. Si pierdes, 
+esa unidad[.]
+desaparecerá 
+para siempre[.].
+[0644]
+Puedes escapar de 
+las batallas[.]
+en torres, en ruinas o con
+monstruos. En el menú 
+de comandos,
+selecciona Retirarse 
+para retirarte del combate en
+cualquiera de estas[.]
+ubicaciones.

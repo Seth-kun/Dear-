@@ -1,0 +1,1094 @@
+[0E20]
+Salvador: La unidad puede rescatar
+aliados sin recibir penalizaciones.
+[0E21]
+Adepto: La unidad atacará dos veces.
+(Velocidad = % de activación).
+[0E22]
+Acróbata: La unidad no se verá
+ralentizada por los efectos del terreno.
+[0E23]
+Pasar: La unidad podrá atravesar
+casillas ocupadas por enemigos.
+[0E24]
+Canto+: La unidad podrá moverse
+de nuevo luego de un ataque o
+de ciertas acciones.
+[0E25]
+Previsor: Impide ataques dobles
+tanto de la unidad como del enemigo.
+[0E26]
+Tiro Certero: La unidad acertará el
+golpe y su daño aumentará en un 50%.
+(Habilidad = % de activación)
+[0E27]
+Provocar: Los enemigos tienen más
+probabilidad de enforcarse en a la unidad.
+[0E28]
+Piedad: La unidad podrá dejar
+al enemigo con al menos 1 PV.
+[0E29]
+Frenesí: Por cada 4 de daño recibido,
+la unidad causará +1 de daño.
+[0E2A]
+Canto: La unidad podrá moverse
+de nuevo luego de ciertas acciones.
+[0E2B]
+Astuto: La unidad podrá robar
+objetos, abrir cerraduras y ver
+a través de la oscuridad.
+[0E2C]
+Letalidad: Mata de manera
+instantánea al enemigo.
+(Habilidad/2 = % de activación)
+[0E2D]
+Perdición: Deja al enemigo a 1 PV.
+(Habilidad/2 = % de activarse)
+[0E2E]
+Selene: Niega las
+defensas del enemigo.
+(Habilidad = % de activación)
+[0E2F]
+Helios: Restaura tanto PV  como
+daño causado al enemigo.
+(Habilidad = % de activación)
+[0E30]
+Éter: El primer ataque absorbe PV del
+enemigo, el segundo negará sus defensas.
+(Habilidad/2 = % de activación).
+[0E31]
+Astrea: La unidad ataca cinco veces,
+pero su daño se reduce en un 50%.
+(Habilidad = % de activación)
+[0E32]
+Disciplina: La unidad obtiene el doble
+de puntos de experiencia de armas.
+[0E33]
+Antiespadas: +50 en Gol. y Esq.
+si el enemigo tiene una espada.
+[0E34]
+Quiebralanzas: +50 en Gol. y Esq.
+si el enemigo tiene una lanza.
+[0E35]
+Rompehachas: +50 en Gol. y Esq.
+si el enemigo tiene una hacha.
+[0E36]
+Rompearcos: +50 en Gol. y Esq.
+si el enemigo tiene un arco.
+[0E37]
+Rajagrimorios: +50 en Gol. y Esq.
+si el enemigo tiene un grimorio.
+[0E38]
+Égida: Anula un ataque mágico.
+(Habilidad = % de activarse)
+[0E39]
+Pavés: Anula un ataque físico.
+(Habilidad = % de activarse)
+[0E3A]
+Duelista Ágil: Esq. +30 cuando
+el ataque lo inicia la unidad.
+[0E3B]
+Muerte Inminente: Crí. +30 cuando
+el ataque lo inicia la unidad.
+[0E3C]
+Ofensa Dúplice: Vel. +5 cuando
+el ataque lo inicia la unidad.
+[0E3D]
+Golpe Protector: Res. +20 cuando
+el ataque lo inicia la unidad.
+[0E3E]
+Golpe Certero: Gol. +40 cuando
+el ataque lo inicia la unidad.
+[0E3F]
+Ataque Blindado: Def. +10 cuando
+el ataque lo inicia la unidad.
+[0E40]
+Ventaja: Con PV<50%, la unidad atacará
+primero cuando el rival inicie el ataque.
+[0E41]
+Arremetida: Si la unidad acomete primero
+al enemigo con PV<50%, atacará dos
+veces de manera inmediata si es posible.
+[0E42]
+Rabia: Con PV<50%, Crí +20.
+[0E43]
+Contraatacar: El daño físico recibido a
+1 o 2 casillas de distancia es reflejado.
+[0E44]
+Reflejar Magia: El daño mágico recibido a
+1 o 2 casillas de distancia es reflejado.
+[0E45]
+Milagro: Si la unidad tiene PV>50%,
+sobrevivirá a un ataque mortal.
+[0E46]
+Maestría Espada: +4 de daño
+cuando se usa una espada.
+[0E47]
+Maestría Lanza: +4 de daño
+cuando se usa una lanza.
+[0E48]
+Maestría Hacha: +4 de daño
+cuando se usa una hacha.
+[0E49]
+Maestría Arco: +4 de daño
+cuando se usa un arco.
+[0E4A]
+Maestría Grimorio: +4 de daño
+cuando se usa un grimorio.
+[0E4B]
+Crítico+: Crí. +15
+[0E4C]
+Exorcismo: La unidad se vuelve
+efectiva contra monstruos.
+[0E4D]
+Invocar: La unidad puede invocar
+soldados fantasma como aliados.
+[0E4E]
+Bailar: Revitaliza a un aliado para
+otorgarle una acción adicional.
+[0E4F]
+Ejecución Curativa: Restaura hasta
+un 50% de PV luego de atacar y
+derrotar a un amaigo.
+[0E50]
+Asalto Impetuoso: Si la unidad inicia
+un ataque y derrota al enemigo, obtendrá
+una acción adicional.
+[0E51]
+Recuperación: Devuelve 30% de PV
+máximo al inicio de cada turno.
+[0E52]
+Bonitos Muslos: Realmente no tiene
+efecto. Solo pensé en decirtelo.
+[0E53]
+Doncella: Los aliados masculinos
+en un radio de 2 casillas recibirán
+-2 de daño del enemigo.
+[0E54]
+Caballeroso: Los aliados femeninos
+en un radio de 2 casillas recibirán
+-2 de daño del enemigo.
+[0E55]
+Halo Perverso: Los enemigos en
+un radio de 2 casillas sufrirán +2
+de daño mágico de tus unidades.
+[0E56]
+Entusiasmar: Los aliados en un radio
+de 2 casillas causarán +2 de daño
+y recibirán -2 de daño en combate.
+[0E57]
+Encanto: Los aliados en un
+radio de 2 casillas causarán
++2 de daño a los enemigos.
+[0E58]
+Canto Pacífico: Los enemigos en
+un radio de 2 casillas causarán
+-2 de daño a tus unidades.
+[0E59]
+Amaterasu: Los aliados en un radio de
+2 casillas recuperan el 20% de su
+PV máximo al inicio de cada turno.
+[0E5A]
+Mejora Fuerza: Aliados adyacentes
+a la unidad causan +4 de daño físico.
+[0E5B]
+Mejora Magia: Aliados adyacentes
+a la unidad causan +4 de daño mágico.
+[0E5C]
+Mejora Velocidad: Aliados adyacentes
+a la unidad obtienen +4 de velocidad.
+[0E5D]
+Mejora Defensa: Aliados adyacentes
+a la unidad reciben -4 de daño físico.
+[0E5E]
+Mejora Resistencia: Aliados adyacentes
+a la unidad reciben -4 de daño mágico.
+[0E5F]
+Arrojo: En combate, anula las
+habilidades del enemigo.
+[0E60]
+Anular: La unidad está protegida
+de todos los ataques efectivos.
+[0E61]
+Paragón: La unidad recibe
+el doble de EXP. obtenida.
+[0E62]
+Empalar: La unidad causará
+daño x4 al enemigo.
+(Habilidad = % de activación)
+[0E63]
+Retumbo: Triplica la fuerza del usuario.
+(Habilidad = % de activación).
+[0E64]
+Potenciar Fuerza: Fuerza +4 a los
+aliados en un radio de 2 casillas.
+[0E65]
+Potenciar Magia: Magia +4 a los
+aliados en un radio de 2 casillas.
+[0E66]
+Potenciar Habilidad: Hab. +4 a los
+aliados en un radio de 2 casillas.
+[0E67]
+Potenciar Velocidad: Vel. +4 a los
+aliados en un radio de 2 casillas.
+[0E68]
+Potenciar Suerte: Suerte +4 a los
+aliados en un radio de 2 casillas.
+[0E69]
+Potenciar Defensa: Def. +4 a los
+aliados en un radio de 2 casillas.
+[0E6A]
+Potenciar Resistencia: Res. +4 a los
+aliados en un radio de 2 casillas.
+[0E6B]
+Potenciar Movimiento: Mov. +1 a los
+aliados en un radio de 2 casillas.
+[0E6C]
+Potenciar Todo: +2 a todas
+las estadísticas a los aliados
+en un radio de 2 casillas.
+[0E6D]
+Alcance Arco+: Aumenta el rango
+máximo de los arcos en +1.
+[0E6E]
+Bastón Austero: Aumenta el rango
+máximo de los bastones en +1.
+[0E6F]
+Vivir Para Servir: Al usar un bastón para
+curar a un aliado, la unidad recupera
+tanto PV como PV restaurado al aliado.
+[0E70]
+Vulcano: Los valores deDef./2 y Res./2
+se suman al total de daño causado.
+(Habillidad = % de activación).
+[0E71]
+Vida y Muerte: +10 de daño
+causado y recibido a la unidad.
+[0E72]
+Cerrajero: La unidad puede abrir
+cerraduras sin llaves ni ganzúas.
+[0E73]
+Permutar: Tras un ataque la unidad
+y el rival intercambian posiciones.
+[0E74]
+Porte Fiero: Esq. -10 a todos los
+enemigos en un radio de 2 casillas.
+[0E75]
+Oportunista: Daño +4 si el enemigo
+no puede contraatacar.
+[0E76]
+Aplastamiento: Daño +5 a las
+unidades que no tengan montura.
+[0E77]
+Camaradería: La unidad recupera 10%
+de su PV  máximo cada turno si hay
+aliados en un radio de 2 casillas.
+[0E79]
+Golpe Salvaje: Tras un ataque,
+los enemigos en un radio de 2
+casillas sufren 20% del daño.
+[0E7A]
+Renovación: La unidad recupera 20%
+de PV cada turno si no hay aliados
+en un radio de 2 casillas.
+[0E7B]
+Solitud: Gol. y Esq. +10 si no hay
+aliados en un radio de 3 casillas.
+[0E7C]
+Concentración: Crí, +10 si no hay
+aliados en un radio de 3 casillas.
+[0E7D]
+Vínculo: Los aliados en un radio
+de 3 casillas recuperan 10% de
+su PV al inicio de cada turno.
+[0E7E]
+Maldición: Esq. y Eva. -10 a los
+enemigos en un radio de 3 casillas.
+[0E7F]
+Serenidad de Lis: Los aliados
+adyacentes obtienen +1 de daño
+causado y -3 de daño recibido.
+[0E80]
+Pericia: Reduce el daño adicional
+de los golpes críticos a la mitad.
+[0E81]
+Celeridad: Movimiento +2.
+[0E82]
+Sangre Exaltada: Daño +4
+cuando los PV no están al máxmo.
+[0E83]
+Ímpetu Terrenal: Daño causado +3
+si la unidad se encuentra en una 
+casilla sin efectos.
+[0E84]
+Defensa Terrenal: Daño recibido -3
+si la unidad se encuentra en una 
+casilla con efectos.
+[0E85]
+Sellar Fuerza: Tras un ataque, el
+enemigo sufre Fuerza y Magia -6.
+(Se recupera luego de un turno)
+[0E86]
+Sellar Habilidad: Tras un ataque,
+el enemigo sufre Habilidad -6.
+(Se recupera luego de un turno)
+[0E87]
+Sellar Velocidad: Tras un ataque,
+el enemigo sufre Velocidad -6.
+(Se recupera luego de un turno)
+[0E88]
+Sellar Suerte: Tras un ataque,
+el enemigo sufre Suerte -6.
+(Se recupera luego de un turno)
+[0E89]
+Sellar Defensa: Tras un ataque,
+el enemigo sufre Defensa -6.
+(Se recupera luego de un turno)
+[0E8A]
+Sellar Resistencia: Tras un ataque,
+el enemigo sufre Resistencia -6.
+(Se recupera luego de un turno)
+[0E8B]
+Ventura: Reduce la presición a la 
+mitad, pero duplica tu probabilidad
+de ejecutar un golpe crítico.
+[0E8C]
+Sangre de Dragón: La unidad es capaz
+de activar las "Venas de Dragón".
+[0E8E]
+Primer Impacto: Daño +4 si
+la unidad inicia el ataque.
+[0E8F]
+Discípulo del Viento: Gol. y Esq. +10
+cuando los PV no están al máximo.
+[0E90]
+Réplica Lacerante: Daño +3 si
+el enemigo inicia el ataque.
+[0E91]
+Paciencia: Evasión +10 si
+el enemigo inicia el ataque.
+[0E92]
+Persecución: Vel. +2 si
+el enemigo inicia el ataque.
+[0E93]
+Peso Ligero: Vel. +3 si la unidad
+tiene 3 objetos o menos.
+[0E94]
+Máquina de Matar: La probabilidad de
+golpes críticos de la unidad se duplica.
+[0E95]
+Forzar Crítico: Crí. base = Hab. x1.5.
+[0E96]
+Caballerosidad: Si el enemigo tiene
+sus PV al máximo, la unidad obtiene
+Atq., Def. y Res. +2.
+[0E97]
+Abusón: Si el enemigo no tiene sus
+PV al máximo, la unidad obtiene
+Atq. +3 y también Def. y Res. +1.
+[0E98]
+Ahorro: No se consumirá la
+durabilidad del arma.
+(Suerte = % de activación)
+[0E9A]
+Empujar: Aleja a una unidad
+a una casilla de distancia.
+[0E9B]
+Choque: Aleja a una unidad
+a dos casillas de distancia.
+[0E9E]
+Rightful Arch: Sets Skill
+activation rate to 100%.
+[0E9F]
+Rey Legítimo: +10% de probabilidad
+de activar habilidades que
+tengan una tasa de activación.
+[0EA0]
+Dios Legítimo: +30% de probabilidad
+de activar habilidades que
+tengan una tasa de activación.
+[0EA1]
+Fortuna: Gol. y Esq. +20
+hasta el séptimo turno.
+[0EA2]
+Cadencia Impar: Gol. y Esq. +10
+al comienzo de los turnos impares.
+[0EA3]
+Cadencia Par: Gol. y Esq. +10
+al comienzo de los turnos pares.
+[0EA4]
+Adrenalina: Gol. y Esq. +15. Pero
+la bonificación decrece cada turno.
+[0EA5]
+Templanza: Gol. y Esq. +1 por cada
+turno que pasa, máximo 15.
+[0EA6]
+Saqueo: La unidad podrá obtener una
+Gema Roja al derrotar a un enemigo.
+(Suerte = % de activación)
+[0EA7]
+Pivote: Desplaza a la unidad desde una
+casilla al lado de un aliado a su opuesta.
+[0EA8]
+Refugio: Desplaza a un aliado desde una
+casilla al lado de la unidad a su opuesta.
+[0EA9]
+Intercambiar: La unidad y un aliado
+adyacente intercambian posiciones.
+[0EAA]
+Soplo de Vida: Tras un ataque de la
+unidad, los aliados en un radio de 2
+casillas recuperan el 20% de su PV.
+[0EAB]
+Furia: Fue., Vel., Def. y Res. +2. La
+unidad pierde 6 PV tras un ataque.
+[0EAC]
+Deslumbrar: Los oponentes
+no pueden contraatacar.
+[0EAD]
+Triadepto: Duplica los efectos de
+ventaja o desventaja de armas.
+[0EAE]
+Carro: La unidad tiene
+acceso al carro.
+[0EB6]
+Carisma: Otorga Gol. y Esq. +10 a
+los aliados en un radio de 3 casillas.
+[0EB7]
+Golpe Mortal: Atq. +5 cuando
+el ataque lo inicia la unidad.
+[0EB8]
+Dar y Tomar: Otorga Atq., Mag. y
+Vel. +5, pero inflige Def. y Res. -5.
+[0EBA]
+Ventaja+: La unidad atacará primero
+cuando el rival inicie el ataque.
+También se negarán los críticos.
+[0EBB]
+Vista Aguda: La unidad siempre
+acertará el golpe, no fallará.
+[0EBC]
+Solidaridad: Crítico y evasión de golpes
+críticos +10 a los aliados adyacentes.
+[0EBD]
+Postura Muralla: Si el rival
+inicia el ataque, la unidad
+obtiene Def. y Res. +4.
+[0EBE]
+Postura Dúplice: Si el rival inicia el
+ataque, la unidad obtiene Vel. +6.
+[0EBF]
+Postura Feroz: Si el rival inicia el
+ataque, la unidad obtiene Atq. +6.
+[0EC0]
+Postura Gorrión: Si el rival
+inicia el ataque, la unidad
+obtiene Atq. y Vel. +4.
+[0EC1]
+Postura Espejo: Si el rival
+inicia el ataque, la unidad
+obtiene Atq. y Res. +4.
+[0EC2]
+Postura Preparada: Si el rival
+inicia el ataque, la unidad
+obtiene Vel. y Def. +4.
+[0EC3]
+Postura Firme: Si el rival inicia el
+ataque, la unidad obtiene Def. +6.
+[0EC4]
+Postura Dura: Si el rival
+inicia el ataque, la unidad
+obtiene Atq. y Def. +4.
+[0EC5]
+Postura Veloz: Si el rival
+inicia el ataque, la unidad
+obtiene Vel. y Res. +4.
+[0EC6]
+Postura Protectora: Si el rival inicia
+el ataque, la unidad obtiene Res. +6.
+[0EC7]
+Postura Totalitaria: Si el rival inicia
+el ataque, la unidad obtiene
+Atq., Vel. Def. y Res. +2.
+[0EC8]
+Robar: La unidad puede
+robar objetos del enemigo.
+[0EC9]
+Robar+: La unidad puede robar
+objetos y armas sin equipar del
+enemigo, si Con > Peso de arma.
+[0ECA]
+Capturar: La unidad puede capturar
+a un enemigo derrotado, pero con
+estadísticas reducidas.
+[0ECB]
+Magia Malvada: Inflige un estado
+alterado aleatorio al enemigo.
+(Habilidad = % de activación)
+[0ECC]
+Bastión Defensa: Otorga Def. +5,
+pero inflige Fuer./Mag. -3.
+[0ECD]
+Bastión Resistencia: Otorga Res. +5,
+pero inflige Fuer./Mag. -3.
+[0ECE]
+Previsión: La unidad evita el daño de los
+golpes críticos del las habilidades con
+probabilidad de activación del enemigo.
+[0ECF]
+Fe del Hacha: Las hachas no
+pierden durabilidad, y otorga
+Gol. +(Sue.*1.5) si se usan hachas.
+[0ED0]
+Marcha Muralla: Al inicio del turno, si
+hay un aliado acorazado adyacente
+a la unidad, ambos obtienen Mov. +2.
+[0ED1]
+Melodía Inspiradora: Si la unidad
+otorga un turno adicional a un aliado,
+el objetivo obtiene Fue., Mag. y Def. +2.
+[0ED2]
+Montaraz: La unidad recupera 20%
+de PV al inicio del turno si está en
+una llanura, bosque o montaña.
+[0ED3]
+Cuerpo Metálico: La unidad es
+inmune a las habilidades "Sellar".
+(Ejemplo: Sellar Ataque)
+[0ED4]
+Lodo Líquido: Los enemigos que
+intenten recuperar PV al absorbiendo
+el PV de la unidad los perderán.
+[0ED5]
+Don Oscuro: La unidad será
+capaz de usar magia oscura.
+[0ED6]
+Lumina: La unidad será
+capaz de usar magia de luz.
+[0ED7]
+Suerte Demoníaca: Si la unidad va a
+perder PV por alguna arma demoníaca,
+anula el efecto y lo transfiere al enemigo.
+[0ED8]
+Pacto Demoníaco: La unidad no podrá
+perder PV por alguna arma demoníaca,
+maldecirá al enemigo con este efecto.
+[0ED9]
+Capricho Demoníaco: Si la unidad va
+a perder HP por alguna arma demoníaca,
+el enemigo tambien lo perderá.
+[0EE2]
+Asalto Tóxico: Tras un ataque iniciado
+por la unidad, el enemigo pierde el
+20% de su PV máximo.
+[0EE3]
+Herida Terrible: Tras un ataque sin
+importar quien lo inició, el enemigo
+pierde el 20% de su PV máximo.
+[0EE4]
+Maleficio: Inflige Esq. -15 a
+todos los enemigos adyacentes.
+[0EE5]
+Barricada: El daño recibido
+por el enemigo se reducirá
+a la mitad. Solo una vez.
+[0EE6]
+Barricada+: El daño recibido por el
+enemigo será igual a la mitad del
+daño del último ataque recibido.
+[0EE7]
+A Quemarropa: Establece el rango
+mínimo de los arcos en 1.
+[0EE8]
+Perfeccionista: Gol. y Esq. +15
+cuando la unidad tiene sus
+PV al máximo.
+[0EE9]
+Ingenio: Daño +3 cuando la
+fuerza del usuario es más alta
+que la del enemigo.
+[0EEC]
+Veterano de Guerra: Daño +1
+y Gol. +5% por cada 10 niveles
+que la unidad tenga.
+[0EED]
+Aura Sagrada: Cuando se usa magia
+de luz, otorga Gol., Esq. y Crí. +5%
+y daño + 1.
+[0EEE]
+Orgullo Oculto: Daño inflingido +2
+y daño recibido -2 por cada 25%
+de PV máximos perdidos.
+[0EEF]
+Lealtad: Si la unidad está en un
+radio de 2 un Lord, le Gol. +15%
+y daño recibido -3.
+[0EF0]
+Tormenta: Daño +2, Gol. +15% y Crí. +5%
+si es que la unidad tiene un arma
+de mayor peso que la del enemigo.
+[0EF1]
+Escolta: Daño recibido -1 y Crí +3%
+por cada casilla atravesada.
+[0EF2]
+Golpe Pesado: El peso del arma de la
+unidad se convierte en probabilidad
+de ejecutar un golpe crítico.
+[0EF3]
+Carga: Daño +1 por cada
+dos casillas atravesadas.
+[0EF4]
+Infiltrado: Si la unidad está en un radio
+de 2 casillas de 2 o más enemigos,
+otorga daño +3 y Gol. +15%.
+[0EF5]
+Vanidad: Daño +2 y Gol. +10 si
+la unidad se enfrenta a un
+enemigo a dos casillas de distancia.
+[0EF6]
+Mata Magos: Daño +2 y Crí. +10%
+si la unidad se enfrenta a un
+enemigos mágicos.
+[0EF7]
+Aspirante a Caballero: Daño +2 y
+Esq. +15% si la unidad tiene PV
+menores al 75% de sus PV máximos.
+[0EF8]
+Atento: La unidad no puede
+ser capturada ni robada.
+[0EF9]
+Héroe: Si la unidad tiene PV<50%,
++30% a sus habilidades con
+probabilidad de activación.
+[0EFA]
+Bendición: Cura los problemas de
+estado al comienzo de cada turno.
+[0EFB]
+Re-Mover: La unidad
+podrá moverse otra vez.
+(Suerte = % de activación)
+[0EFC]
+Bastón Poderoso: Si la unidad
+usa un bastón, obtendrá una
+acción adicional luego de usarlo.
+[0EFD]
+Disciplina+: La unidad obtiene el doble
+de puntos de experiencia de armas y
+puede tener rango S en varias armas.
+[0F0A]
+Impulsar Fuerza: Fue. +4 a
+los aliados en un radio de 2
+casillas durante ataques.
+[0F0B]
+Impulsar Magia: Mag. +4 a
+los aliados en un radio de 2
+casillas durante ataques.
+[0F0C]
+Impulsar Habilidad: Hab. +4 a
+los aliados en un radio de 2
+casillas durante ataques.
+[0F0D]
+Impulsar Velocidad: Vel. +4
+a los aliados en un radio de 2
+casillas durante ataques.
+[0F0E]
+Impulsar Suerte: Sue. +4 a
+los aliados en un radio de 2
+casillas durante ataques.
+[0F0F]
+Impulsar Defensa: Def. +4
+a los aliados en un radio de 2
+casillas durante ataques.
+[0F10]
+Impulsar Resistencia: Res. +4
+a los aliados en un radio de 2
+casillas durante ataques.
+[0F11]
+Plenitud: Duplica los crecimientos
+de la unidad, pero reduce a la
+mitad la experiencia obtenida.
+[0F12]
+Promesa: Otorga 20% adicionales
+a los crecimientos de la unidad.
+[0F13]
+Sellar Magia: Tras un ataque,
+el enemigo sufre Magia -6.
+(Se recupera luego de un turno)
+[0F23]
+Presteza: Si el enemigo inicia el ataque
+y la unidad tiene PV>50%, ejecutará un
+ataque doble y el enemigo no podrá.
+[0F24]
+Decisión: Si la unidad tiene HP<50%,
+Fue., Hab., y Vel. *1.5.
+[0F25]
+Percepción: Precisión +20.
+[0F26]
+Vigilancia: Evasión +20.
+[0F27]
+Horror: Gol. y Crí -5 a todos los
+enemigos en un radio de 3 casillas.
+[0F28]
+Ola de Sangre: Atq. y Gol. +5
+a los aliados adyacentes.
+[0F29]
+Laguna Blanca: Atq. y Vel. +5
+a los aliados adyacentes.
+[0F2A]
+Ola Nocturna: Def. y Res. +5
+a los aliados adyacentes.
+[0F2B]
+Presciencia: Si la unidad incia el
+ataque, obtiene Gol. y Esq. +15.
+[0F2C]
+Desviar Esquivar: Si la unidad tiene
+PV<25%, obtiene Gol. +30.
+[0F2D]
+Desviar Crítico: Si la unidad tiene
+PV<25%, obtiene Crí. +30.
+[0F2E]
+Desviar Fuerza: Si la unidad tiene
+PV<25%, obtiene Fue. +4.
+[0F2F]
+Desviar Magia: Si la unidad tiene
+PV<25%, obtiene Mag. +4.
+[0F30]
+Desviar Habilidad: Si la unidad tiene
+PV<25%, obtiene Hab. +4.
+[0F31]
+Desviar Velocidad: Si la unidad tiene
+PV<25%, obtiene Vel. +4.
+[0F32]
+Desviar Suerte: Si la unidad tiene
+PV<25%, obtiene Sue. +4.
+[0F33]
+Desviar Defensa: Si la unidad tiene
+PV<25%, obtiene Def. +4.
+[0F34]
+Desviar Resistencia: Si la unidad tiene
+PV<25%, obtiene Res. +4.
+[0F35]
+Negociar: Reduce a la
+mitad los precios en las tiendas.
+[0F36]
+Defensa Corta: Def. +6 al
+recibir ataques cuerpo a cuerpo.
+[0F37]
+Defensa Larga: Def. +6 al
+recibir ataques a distancia.
+[0F38]
+Defensa Larga+: La unidad no sufre
+daño al recibir ataques a distancia.
+[0F39]
+Mal de Ojo: No se obtendrá
+experiencia al derrotar a la unidad.
+[0F3A]
+Asaltafortalezas: Gol. y Esq. +10
+al luchar en interiores.
+[0F3B]
+Espíritu Libre: : Gol. y Esq. +10
+al luchar en exteriores.
+[0F3C]
+Alcance Magia+: Aumenta el rango
+máximo de los grimorios en +1.
+[0F3D]
+Postura Alerta: Si el rival inicia el
+ataque, la unidad obtiene Esq. +15.
+[0F3E]
+Postura Alerta+: Si el rival inicia el
+ataque, la unidad obtiene Esq. +30.
+[0F3F]
+Llamarada+: Niega la
+resistencia del enemigo.
+(Habilidad = % de activación)
+[0F40]
+Llamarada: Reduce a la mitad
+la resistencia del enemigo.
+(Habilidad = % de activación)
+[0F41]
+Temper: Duplica los
+efectos del bioritmo.
+[0F42]
+Serenidad: Reduce a la mitad
+los efectos del bioritmo.
+[0F43]
+Petrificar: Convierte en piedra
+al objetivo luego del combate.
+(Habilidad = % de activación)
+[0F44]
+Enloquecer: Inflige locura en el
+enemigo luego del combate.
+(Habilidad = % de activación)
+[0F45]
+Puntería: Gol. x2 y habrá (Hab.)%
+de probabilidad de dormir
+al rival luego del combate.
+[0F46]
+Colmillo Dragón: Daño x1.5.
+(Habilidad = % de activación)
+[0F47]
+Andanza: La unidad no puede
+sufrir un golpe crítico del enemigo.
+[0F48]
+Asesinato: En los combates cuerpo
+a cuerpo: otorga daño +2 y los
+ataques dobles se ejecutan antes.
+[0F49]
+Hoja Arcana: En los combates
+cuerpo a cuerpo: otorga
+Gol. y Crí. +(3+(Mag./2)).
+[0F4A]
+Equilibrio: Mov. +1. Niega las
+bonificaciones otorgadas por
+el triángulo de armas.
+[0F4B]
+Llama Azul: Ataque +2. Si la unidad
+está adyacente a otra con esta habilidad
+equipada, otroga Ataque +2 extra.
+[0F4C]
+León Doble: La unidad
+ataca dos veces siempre.
+[0F4D]
+Ataque Triangular: Permite a la unidad
+ejecutar un ataque triangular con otras
+2 unidades con esta misma habilidad.
+[0F4E]
+Empuje Fuerza: Si los PV de la unidad
+están al máximo, otorga Fue. +5.
+[0F4F]
+Empuje Magia: Si los PV de la unidad
+están al máximo, otorga Mag. +5.
+[0F50]
+Empuje Habilidad: Si los PV de la unidad
+están al máximo, otorga Hab. +5.
+[0F51]
+Empuje Velocidad: Si los PV de la unidad
+están al máximo, otorga Vel. +5.
+[0F52]
+Empuje Defensa: Si los PV de la unidad
+están al máximo, otorga Def. +5.
+[0F53]
+Empuje Resistencia: Si los PV de la unidad
+están al máximo, otorga Res. +5.
+[0F54]
+Rompecielos: La unidad se vuelve
+efectiva ante unidades voladoras.
+[0F55]
+Ingenioso: Duplica las bonificaciones
+obtenidas por efectividad de arma.
+[0F57]
+Calma Fuerza: Niega las
+bonificaciones de
+Fuerza del enemigo.
+[0F58]
+Calma Magia: Niega las
+bonificaciones de
+Magia del enemigo.
+[0F59]
+Calma Habilidad: Niega las
+bonificaciones de
+Habilidad del enemigo.
+[0F5A]
+Calma Velocidad: Niega las
+bonificaciones de
+Velocidad del enemigo.
+[0F5B]
+Calma Suerte: Niega las
+bonificaciones de
+Suerte del enemigo.
+[0F5C]
+Calma Defensa: Niega las
+bonificaciones de
+Defensa del enemigo.
+[0F5D]
+Calma Resistencia: Niega las
+bonificaciones de
+Resistencia del enemigo.
+[0F5E]
+Calma Totalitaria: Niega todas
+las bonificaciones del enemigo.
+[0F5F]
+Sombra: Los enemigos tienen menos
+probabilidad de enforcarse en a la unidad.
+[0F60]
+Sombra+: Los enemigos no se
+enfoncarán en la unidad.
+[0F61]
+Regeneración: La unidad recupera PV
+iguales a su magia al inicio del turno.
+[0F64]
+Destrucción: Disminuye la durabilidad
+del arma enemigo igual al nivel.
+(Habilidad/2 = % de activación)
+[0F65]
+Mantener el Ritmo: Mov. +2 si la unidad
+se encuentra en un radio de 3 casillas
+de un aliado con Canto o Canto+.
+[0F66]
+Marcha Interior: Si la unidad está
+en interiores, obtiene Mov. +2.
+[0F67]
+Acometida Natural: Si la unidad está
+en terreno irregular, obtiene Mov. +2.
+[0F69]
+Glaciar: El valor de la Res. de la unidad
+se suma al total de daño causado.
+(Habillidad = % de activación)
+[0F6A]
+Maestro Casillero: Las habilidades de
+movimiento no terminaran tu acción.
+[0F6B]
+Guardia Aérea: Def. +4 contra enemigos
+voladores si la unidad se encuentra en un
+radio de 3 casillas de un aliado volador.
+[0F6C]
+Guardia Caballo: Def. +4 contra enemigos
+a caballo si la unidad se encuentra en un
+radio de 3 casillas de un aliado a caballo.
+[0F6D]
+Triadepto+: Duplica los efectos de
+ventaja o desventaja de armas.
+[0F6F]
+Carga+: Si la unidad consume todo
+su movimiento, atacará dos veces.
+[0F70]
+Gran Escudo: Niega todo el daño sufrido.
+(Defensa = % de activación).
+[0F71]
+Luz de Luna: El enemigo no podrá
+contraatacar pero la unidad no
+podrá ejecutar un ataque doble.
+[0F72]
+Venganza: La mitad del daño sufrido
+se suma al total del daño causado.
+(Habilidad = % de activación)
+[0F73]
+Eclipse: Deja al enemigo a 1 PV.
+(Habilidad = % de activación)
+[0F9B]
+Sincronizar: Los estados alterado
+tambien se aplican al atacante.
+[0F9C]
+Intercambiar+: Permite a la unidad
+cambiar posiciones con un aliado
+en un radio de (Mag/2) casillas.
+[0F9D]
+Hidrovitalidad: Otorga Res. +6 si los
+PV de la unidad son mayores en
+3 o más a los PV del enemigo.
+[0F9E]
+Anemovitalidad: Otorga Vel. +6 si los
+PV de la unidad son mayores en
+3 o más a los PV del enemigo.
+[0F9F]
+Geovitalidad: Otorga Def. +6 si los
+PV de la unidad son mayores en
+3 o más a los PV del enemigo.
+[0FA0]
+Pirovitalidad: Otorga Atq. +6 si los
+PV de la unidad son mayores en
+3 o más a los PV del enemigo.
+[0FA1]
+Hoja Rauda: Vel. +4 y daño
+causado -2 si la consitución de la
+unidad es menor que la del enemigo.
+[0FA2]
+Sable Pesado: daño causado +4 y
+Vel. -2 si la consitución de la unidad
+es menor que la del enemigo.
+[0FA3]
+Adepto
+[0FA4]
+Realiza un ataque consecutivo.
+(3 de durabilidad por golpe)
+[0FA5]
+Éter
+[0FA6]
+Primer golpe: Absorbe PV, segundo
+golpe: niega las defensas del enemigo.
+(4 de durabilidad por golpe)
+[0FA7]
+Astrea
+[0FA8]
+5 ataques con daño a la mitad.
+(1 de durabilidad por golpe)
+[0FA9]
+Colmillo Dragón
+[0FAA]
+Daño x1.5.
+(3 de durabilidad por golpe)
+[0FAB]
+Glaciar
+[0FAC]
+Suma la Res. de la unidad al daño.
+(3 de durabilidad por golpe)
+[0FAD]
+Vulcano
+[0FAE]
+Suma Def./2 y Res./2 de la
+unidad al daño causado.
+(3 de durabilidad por golpe)
+[0FAF]
+Selene
+[0FB0]
+Niega las defensas del enemigo.
+(3 de durabilidad por golpe)
+[0FB1]
+Helios
+[0FB2]
+Restaura tanto PV como daño causado.
+(3 de durabilidad por golpe)
+[0FB3]
+Tiro Certero
+[0FB4]
+Daño x1.5, el golpe no fallará.
+(4 de durabilidad por golpe)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
