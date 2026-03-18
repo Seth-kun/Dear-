@@ -1,3 +1,5 @@
+--Cómo encontrar los graficos del parche
+
 -Abrir Graphics Editor.
 
 -En "Image Adress" colocamos el numero de la
