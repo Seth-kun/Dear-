@@ -1,0 +1,16 @@
+-Abrir Graphics Editor.
+
+-En "Image Adress" colocamos el numero de la
+imagen de esta carpeta (E47CF8, E47E30) (La posición puede 
+variar según la ROM).
+
+-En "Compressed Image" le damos click y seleccionamos
+"Uncompressed Image".
+
+-Le damos a "Import Image" y selecciona la imagen
+que corresponde.
+
+NOTA: Si esto no funciona, buscarémos en:
+
+TOOLS >> PATCHES >> A LA IZQUIERDA DE FILTER: PONDRÉMOS >> MMB >> ELEGIRÉMOS LA OPCIÓN 
+>> MMB SubData_MMBLabelTable >> ALLÍ IMPORTAREMOS LOS GRÁFICOS UNO POR UNO.
